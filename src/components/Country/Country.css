@@ -4,3 +4,16 @@
     padding: 15px;
     border-radius: 15px;
 }
+.country img{
+    height: 250px;
+    width: 100%;
+}
+
+.button{
+    background: yellow;
+}
+
+.bg{
+    background-color: palegoldenrod;
+    color: black;
+}
